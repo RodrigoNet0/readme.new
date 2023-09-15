@@ -35,3 +35,6 @@
 <a href="https://codesurfer.pomb.us" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pomber/code-surfer/948452f7c1c8adaf019e29600d7d158747a91a90/sites/docs/src/home/logo.small.svg" height="36" alt="Python" /></a>
 <!-- <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 -->
+    
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoNet0&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoNet0&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoNet0&theme=nord_dark) |
+| :-: | :-: | :-: |
